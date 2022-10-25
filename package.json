@@ -1,0 +1,14 @@
+{
+  "name": "edu-courx-server",
+  "version": "1.0.0",
+  "description": "this is the database server for edu-courx website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "edu-courx-server"
+  ],
+  "author": "educourx",
+  "license": "ISC"
+}
