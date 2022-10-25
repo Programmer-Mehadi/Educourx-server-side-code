@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Learn C# Programming (In Ten Easy Steps)",
+    "img": "https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp",
+    "category": "Development",
+    "author": "Huw Collingbourme",
+    "rating": 4.5,
+    "price": "$11.99"
+  },
+  {
+    "id": "2",
+    "name": "The Complete Introduction To Accounting and Finance",
+    "img": "https://www.oxfordhomestudy.com/images/blog/1536752725Accountant.jpg",
+    "category": "Finance & Accounting",
+    "author": "Stefan lgnatovski",
+    "rating": 4.5,
+    "price": "$13.99"
+  },
+  {
+    "id": "3",
+    "name": "Master Your Mindset & Brain: Framestorm Your Way to Success",
+    "img": "https://oge.tmu.edu.tw/wp-content/uploads/2019/02/Brain-consciousness.jpg",
+    "category": "Business",
+    "author": "Mr. Jack",
+    "rating": 4.5,
+    "price": "$13.99"
+  },
+  {
+    "id": "4",
+    "name": "The Complete 2020 Fullstack Web Developer Course",
+    "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png",
+    "category": "Development",
+    "author": "Kalob",
+    "rating": 4.5,
+    "price": "$43.99"
+  },
+  {
+    "id": "5",
+    "name": "Creating Responsive Web Design",
+    "img": "https://images.ctfassets.net/gg4ddi543f5b/7AHjFKPTt6B5ZwI8oI52rN/862db70ca26d7a72ce642932527e252d/web-design-workflow-blog.png",
+    "category": "Design",
+    "author": "David Travis",
+    "rating": 4.4,
+    "price": "$12.99"
+  },
+  {
+    "id": "6",
+    "name": "Learn Photography For Beginner",
+    "img": "https://assets.entrepreneur.com/content/3x2/2000/20191009140007-GettyImages-1053962188.jpeg?crop=4:3",
+    "category": "Photography & Video",
+    "author": "Consuelo Hull",
+    "rating": 4.4,
+    "price": "$10.99"
+  },
+
+  {
+    "id": "7",
+    "name": "Mastering BGP in Depth on Cisco Routers",
+    "img": "https://images.squarespace-cdn.com/content/v1/58028c1e29687f239061ebb1/1607471411421-FN9OOXVMTI4RH5PDSX9C/Cisco-Research-Shows-IT-Eager-to-Adopt-Artificial-Intelligence_-Intent-based-Networking.jpg?format=2500w",
+    "category": "IT & Software",
+    "author": "Terry R. Lampkin",
+    "rating": 4.2,
+    "price": "$13.99"
+  }
+]
