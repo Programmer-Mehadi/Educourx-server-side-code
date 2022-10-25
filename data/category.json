@@ -1,26 +1,26 @@
 [
   {
     "id": "1",
-    "name": "Development"
+    "categoryName": "Development"
   },
   {
     "id": "2",
-    "name": "Finance & Accounting"
+    "categoryName": "Finance & Accounting"
   },
   {
     "id": "3",
-    "name": "Business"
+    "categoryName": "Business"
   },
   {
     "id": "4",
-    "name": "Design"
+    "categoryName": "Design"
   },
   {
     "id": "5",
-    "name": "Photography & Video"
+    "categoryName": "Photography & Video"
   },
   {
     "id": "6",
-    "name": "IT & Software"
+    "categoryName": "IT & Software"
   }
 ]
