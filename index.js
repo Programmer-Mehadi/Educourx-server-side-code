@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 app.get('/courses', (req, res) => {
     res.send(courses);
 })
-app.get('/category', (req, res) => {
+app.get('/categories', (req, res) => {
     res.send(category);
 })
 app.listen(port, () => {
