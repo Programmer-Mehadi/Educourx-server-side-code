@@ -7,14 +7,24 @@ app.use(cors());
 const courses = require('./data/courses.json');
 const category = require('./data/categories.json');
 app.get('/', (req, res) => {
-    res.send('server running ', )
+    res.send('server running ',)
 })
 app.get('/courses', (req, res) => {
     res.send(courses);
 })
+app.get('/courses/category/:categoryId', (req, res) => {
+    const id = req.params.categoryId;
+    if (id === '7') {
+        res.send(courses);
+    } else {
+        const selectedCourses = courses.filter((course) => course.categoryId === id);
+        res.send(selectedCourses);
+    }
+
+})
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
+
     const course = courses.find((course) => course.id === id);
     res.send(course);
 })

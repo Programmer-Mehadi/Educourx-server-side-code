@@ -9,7 +9,8 @@
     "price": "$11.99",
     "lessons": 84,
     "time": "34 hours",
-    "levels": "All Levels"
+    "levels": "All Levels",
+    "categoryId": "1"
   },
   {
     "id": "2",
@@ -21,7 +22,8 @@
     "price": "$13.99",
     "lessons": 47,
     "time": "26 hours",
-    "levels": "Expert"
+    "levels": "Expert",
+    "categoryId": "2"
   },
   {
     "id": "3",
@@ -33,7 +35,8 @@
     "price": "$13.99",
     "lessons": 34,
     "time": "7 hours",
-    "levels": "Begineer"
+    "levels": "Begineer",
+    "categoryId": "3"
   },
   {
     "id": "4",
@@ -45,7 +48,8 @@
     "price": "$43.99",
     "lessons": 134,
     "time": "62 hours",
-    "levels": "All Levels"
+    "levels": "All Levels",
+    "categoryId": "1"
   },
   {
     "id": "5",
@@ -57,7 +61,8 @@
     "price": "$12.99",
     "lessons": 52,
     "time": "18 hours",
-    "levels": "Begineer"
+    "levels": "Begineer",
+    "categoryId": "4"
   },
   {
     "id": "6",
@@ -69,7 +74,8 @@
     "price": "$10.99",
     "lessons": 37,
     "time": "12 hours",
-    "levels": "All Levels"
+    "levels": "All Levels",
+    "categoryId": "5"
   },
 
   {
@@ -82,6 +88,7 @@
     "price": "$13.99",
     "lessons": 95,
     "time": "31 hours",
-    "levels": "Expert"
+    "levels": "Expert",
+    "categoryId": "6"
   }
 ]
