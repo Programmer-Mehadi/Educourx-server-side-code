@@ -6,15 +6,12 @@ app.use(cors());
 
 const courses = require('./data/courses.json');
 const category = require('./data/categories.json');
-const data = require('./data/data.json');
+const authors = require('./data/authors.json');
 app.get('/', (req, res) => {
     res.send('server running ',)
 })
 app.get('/courses', (req, res) => {
     res.send(courses);
-})
-app.get('/test', (req, res) => {
-    res.send(data);
 })
 app.get('/courses/category/:categoryId', (req, res) => {
     const id = req.params.categoryId;
@@ -24,16 +21,25 @@ app.get('/courses/category/:categoryId', (req, res) => {
         const selectedCourses = courses.filter((course) => course.categoryId === id);
         res.send(selectedCourses);
     }
-
 })
-app.get('/course/:id', (req, res) => {
-    const id = req.params.id;
 
-    const course = courses.find((course) => course.id === id);
-    res.send(course);
-})
 app.get('/categories', (req, res) => {
     res.send(category);
+})
+app.get('/author/:authorId', (req, res) => {
+    const id = req.params.authorId;
+    const selectedAuthor = authors.find((author) => author.authorId === id);
+    res.send(selectedAuthor);
+})
+
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const course = courses.find((course) => course._id === id);
+    res.send(course);
+})
+
+app.get('*', (req, res) => {
+    res.send('Wrong Api.')
 })
 
 app.listen(port, () => {

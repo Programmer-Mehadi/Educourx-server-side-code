@@ -9,7 +9,8 @@
     "email": "odonnellaguirre@olucore.com",
     "phone": "+1 (962) 460-3484",
     "address": "365 Newel Street, Wanship, Texas",
-    "registered": "2021-07-05"
+    "registered": "2021-07-05",
+    "authorImage": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "index": 1,
@@ -21,7 +22,8 @@
     "email": "odonnellaguirre@olucore.com",
     "phone": "+1 (907) 487-2703",
     "address": "717 Harrison Avenue, Grenelefe, Alaska",
-    "registered": "2019-08-24"
+    "registered": "2019-08-24",
+    "authorImage": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "index": 2,
@@ -33,7 +35,8 @@
     "email": "odonnellaguirre@olucore.com",
     "phone": "+1 (891) 495-3801",
     "address": "651 Fenimore Street, Roosevelt, Delaware",
-    "registered": "2021-02-08"
+    "registered": "2021-02-08",
+    "authorImage": "https://media.istockphoto.com/photos/shot-of-a-handsome-young-man-standing-against-a-grey-background-picture-id1335941248?b=1&k=20&m=1335941248&s=170667a&w=0&h=sn_An6VRQBtK3BuHnG1w9UmhTzwTqM3xLnKcqLW-mzw="
   },
   {
     "index": 3,
@@ -45,7 +48,8 @@
     "email": "odonnellaguirre@olucore.com",
     "phone": "+1 (910) 482-2678",
     "address": "777 Crosby Avenue, Wheaton, Wisconsin",
-    "registered": "2019-05-31"
+    "registered": "2019-05-31",
+    "authorImage": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg"
   },
   {
     "index": 4,
@@ -57,18 +61,20 @@
     "email": "odonnellaguirre@olucore.com",
     "phone": "+1 (831) 421-2207",
     "address": "831 Cheever Place, Skyland, New Mexico",
-    "registered": "2019-04-23"
+    "registered": "2019-04-23",
+    "authorImage": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
   },
   {
     "index": 5,
     "authorId": "db067620-187b-4a3c-acf4-a0d19067e241",
     "authorName": "Molly Allen",
     "isActive": false,
-    "age": 32,
+    "age": 55,
     "gender": "male",
     "email": "odonnellaguirre@olucore.com",
     "phone": "+1 (806) 452-3215",
     "address": "252 Lefferts Place, Venice, Virgin Islands",
-    "registered": "2021-09-09"
+    "registered": "2021-09-09",
+    "authorImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
   }
 ]
