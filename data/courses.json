@@ -1,94 +1,115 @@
 [
   {
-    "id": "1",
+    "_id": "6358ecb1b6f6977fa27811a7",
+    "authorId": "10da7523-f72a-4897-ab8b-3a99a9b8ab75",
+    "authorName": "Natalie Coffey",
     "courseName": "Learn C# Programming (In Ten Easy Steps)",
     "img": "https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp",
     "categoryName": "Development",
-    "authorName": "Huw Collingbourme",
     "rating": 4.5,
     "price": "$11.99",
     "lessons": 84,
     "time": "34 hours",
     "levels": "All Levels",
-    "categoryId": "1"
+    "categoryId": "1",
+    "certificated": true,
+    "about": ""
   },
   {
-    "id": "2",
+    "_id": "6358ecb13212accdfd125ff3",
+    "authorId": "895901d0-9295-4372-895e-1c83c38b1334",
+    "authorName": "Mays Gordon",
     "courseName": "The Complete Introduction To Accounting and Finance",
     "img": "https://www.zambianguardian.com/wp-content/uploads/2021/08/the-difference-between-accounting-and-finance.jpg",
     "categoryName": "Finance & Accounting",
-    "authorName": "Stefan lgnatovski",
+
     "rating": 4.5,
     "price": "$13.99",
     "lessons": 47,
     "time": "26 hours",
     "levels": "Expert",
-    "categoryId": "2"
+    "categoryId": "2",
+    "certificated": true,
+    "about": ""
   },
   {
-    "id": "3",
+    "_id": "6358ecb1fa1c580492edec6f",
+    "authorId": "31619463-5626-46fe-a628-e3f24858b5cd",
+    "authorName": "Lesley Farrell",
     "courseName": "Master Your Mindset & Brain: Framestorm Your Way to Success",
     "img": "https://oge.tmu.edu.tw/wp-content/uploads/2019/02/Brain-consciousness.jpg",
     "categoryName": "Business",
-    "authorName": "Mr. Jack",
     "rating": 4.5,
     "price": "$13.99",
     "lessons": 34,
     "time": "7 hours",
     "levels": "Begineer",
-    "categoryId": "3"
+    "categoryId": "3",
+    "certificated": true,
+    "about": ""
   },
   {
-    "id": "4",
+    "_id": "6358ecb1530d88f44d4b40e9",
+    "authorId": "10da7523-f72a-4897-ab8b-3a99a9b8ab75",
+    "authorName": "Natalie Coffey",
     "courseName": "The Complete 2020 Fullstack Web Developer Course",
     "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png",
     "categoryName": "Development",
-    "authorName": "Kalob",
     "rating": 4.5,
     "price": "$43.99",
     "lessons": 134,
     "time": "62 hours",
     "levels": "All Levels",
-    "categoryId": "1"
+    "categoryId": "1",
+    "certificated": true,
+    "about": ""
   },
   {
-    "id": "5",
+    "_id": "6358ecb19602b97476e593de",
+    "authorId": "3534116d-8ba5-4c92-8857-6e47431fb845",
+    "authorName": "Reba Adkins",
     "courseName": "Creating Responsive Web Design",
     "img": "https://images.ctfassets.net/gg4ddi543f5b/7AHjFKPTt6B5ZwI8oI52rN/862db70ca26d7a72ce642932527e252d/web-design-workflow-blog.png",
     "categoryName": "Design",
-    "authorName": "David Travis",
     "rating": 4.4,
     "price": "$12.99",
     "lessons": 52,
     "time": "18 hours",
     "levels": "Begineer",
-    "categoryId": "4"
+    "categoryId": "4",
+    "certificated": true,
+    "about": ""
   },
   {
-    "id": "6",
+    "_id": "6358ecb154c95c76dab36443",
+    "authorId": "d849f595-5ed8-4c1b-9034-4154664631be",
+    "authorName": "Kramer Dale",
     "courseName": "Learn Photography For Beginner",
     "img": "https://assets.entrepreneur.com/content/3x2/2000/20191009140007-GettyImages-1053962188.jpeg?crop=4:3",
     "categoryName": "Photography & Video",
-    "authorName": "Consuelo Hull",
     "rating": 4.4,
     "price": "$10.99",
     "lessons": 37,
     "time": "12 hours",
     "levels": "All Levels",
-    "categoryId": "5"
+    "categoryId": "5",
+    "certificated": true,
+    "about": ""
   },
-
   {
-    "id": "7",
+    "_id": "6358ecb10ab08a613db11eb9",
+    "authorId": "db067620-187b-4a3c-acf4-a0d19067e241",
+    "authorName": "Molly Allen",
     "courseName": "Mastering BGP in Depth on Cisco Routers",
     "img": "https://images.squarespace-cdn.com/content/v1/58028c1e29687f239061ebb1/1607471411421-FN9OOXVMTI4RH5PDSX9C/Cisco-Research-Shows-IT-Eager-to-Adopt-Artificial-Intelligence_-Intent-based-Networking.jpg?format=2500w",
     "categoryName": "IT & Software",
-    "authorName": "Terry R. Lampkin",
     "rating": 4.2,
     "price": "$13.99",
     "lessons": 95,
     "time": "31 hours",
     "levels": "Expert",
-    "categoryId": "6"
+    "categoryId": "6",
+    "certificated": true,
+    "about": ""
   }
 ]

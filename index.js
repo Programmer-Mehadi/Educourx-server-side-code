@@ -6,11 +6,15 @@ app.use(cors());
 
 const courses = require('./data/courses.json');
 const category = require('./data/categories.json');
+const data = require('./data/data.json');
 app.get('/', (req, res) => {
     res.send('server running ',)
 })
 app.get('/courses', (req, res) => {
     res.send(courses);
+})
+app.get('/test', (req, res) => {
+    res.send(data);
 })
 app.get('/courses/category/:categoryId', (req, res) => {
     const id = req.params.categoryId;
