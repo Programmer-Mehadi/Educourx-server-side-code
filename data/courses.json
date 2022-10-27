@@ -3,7 +3,7 @@
     "_id": "6358ecb1b6f6977fa27811a7",
     "authorId": "10da7523-f72a-4897-ab8b-3a99a9b8ab75",
     "authorName": "Natalie Coffey",
-    "courseName": "Learn C# Programming (In Ten Easy Steps)",
+    "courseName": "Learn C# Programming",
     "img": "https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp",
     "categoryName": "Development",
     "rating": 4.5,
@@ -13,7 +13,8 @@
     "levels": "All Levels",
     "categoryId": "1",
     "certificated": true,
-    "about": ""
+    "about": "",
+    "authorImage": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "_id": "6358ecb13212accdfd125ff3",
@@ -30,7 +31,8 @@
     "levels": "Expert",
     "categoryId": "2",
     "certificated": true,
-    "about": ""
+    "about": "",
+    "authorImage": "https://content1.getnarrativeapp.com/68f6039f-a2f9-4e15-9b91-4f7cebe2a378/img_ref/4e80a9d6-aef4-4875-ab94-5952b6926e07/Hamish-5_professional_headshots_photographer_headshot_750.jpg"
   },
   {
     "_id": "6358ecb1fa1c580492edec6f",
@@ -46,7 +48,8 @@
     "levels": "Begineer",
     "categoryId": "3",
     "certificated": true,
-    "about": ""
+    "about": "",
+    "authorImage": "https://media.istockphoto.com/photos/shot-of-a-handsome-young-man-standing-against-a-grey-background-picture-id1335941248?b=1&k=20&m=1335941248&s=170667a&w=0&h=sn_An6VRQBtK3BuHnG1w9UmhTzwTqM3xLnKcqLW-mzw="
   },
   {
     "_id": "6358ecb1530d88f44d4b40e9",
@@ -62,7 +65,8 @@
     "levels": "All Levels",
     "categoryId": "1",
     "certificated": true,
-    "about": ""
+    "about": "",
+    "authorImage": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
   },
   {
     "_id": "6358ecb19602b97476e593de",
@@ -78,7 +82,8 @@
     "levels": "Begineer",
     "categoryId": "4",
     "certificated": true,
-    "about": ""
+    "about": "",
+    "authorImage": "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg"
   },
   {
     "_id": "6358ecb154c95c76dab36443",
@@ -94,7 +99,8 @@
     "levels": "All Levels",
     "categoryId": "5",
     "certificated": true,
-    "about": ""
+    "about": "",
+    "authorImage": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
   },
   {
     "_id": "6358ecb10ab08a613db11eb9",
@@ -110,6 +116,7 @@
     "levels": "Expert",
     "categoryId": "6",
     "certificated": true,
-    "about": ""
+    "about": "",
+    "authorImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
   }
 ]
