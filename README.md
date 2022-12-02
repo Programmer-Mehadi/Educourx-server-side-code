@@ -1,6 +1,6 @@
 website live link: https://educourx-auth.web.app/
 
-https://github.com/Programmer-Mehadi/Educourx-client-side-code
+website client-side-code link : https://github.com/Programmer-Mehadi/Educourx-client-side-code
 
 "# b610-lerning-platform-server-side-Programmer-Mehadi" 
 - course list: https://edu-courx-server.vercel.app/courses
